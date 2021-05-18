@@ -1,7 +1,7 @@
 # Terminal Page
 
 
-**See live Demo [Here](https://flyingsonu122.github.io/)**
+**See live Demo [Here](https://flyingsonu122.github.io/terminal-page)**
 
 
 <br><br><br>
